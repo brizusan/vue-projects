@@ -30,3 +30,13 @@
 - libreria externa : vue-circle-progress
 - estilos : css , sass , scope , global
 - fonts : google fonts
+
+4. Cotizar Criptos: [live Preview](https://profound-tulumba-1a9c20.netlify.app)
+
+- Ref , Reactive
+- onMounted
+- computed Properties
+- Slots
+- estilos : css , style inline
+- FetchApi - Async await
+- Composables
