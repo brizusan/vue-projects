@@ -40,3 +40,12 @@
 - estilos : css , style inline
 - FetchApi - Async await
 - Composables
+
+5. Buscador Clima : [live Preview](https://magical-gumdrop-0767bd.netlify.app)
+
+- Ref , Reactive , onMounted , Computed Properties , Slots .
+- FetchApi - Async Await
+- Composables
+- Estilos : css , style inline
+- API : https://openweathermap.org/api
+- Spinner :https://tobiasahlin.com/spinkit 
