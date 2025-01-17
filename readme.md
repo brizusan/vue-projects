@@ -49,3 +49,13 @@
 - Estilos : css , style inline
 - API : https://openweathermap.org/api
 - Spinner :https://tobiasahlin.com/spinkit 
+
+6. CRUD REGISTROS - ROUTER : [link de muestra]()
+
+- SPA : Single Page Aplication
+- Vue Router : useRoute , useRouter , RouterView , RouterLink
+- Formularios : Formkit Vue
+- Fake Rest Api : Json server
+- Metodos HTTP : Create , Read , Update , Delete
+- Async Await , FetchApi
+- Estilos : TailwindCss
