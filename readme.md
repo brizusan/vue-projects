@@ -59,3 +59,15 @@
 - Metodos HTTP : Create , Read , Update , Delete
 - Async Await , FetchApi
 - Estilos : TailwindCss
+
+7. Buscador de recetas bebidas : [live Preview](https://regal-cucurucho-3846c7.netlify.app)
+
+- Vue Router
+- Composables
+- Stores : Pinia
+  - State , Getters , action
+- Api : https://www.thecocktaildb.com/api.php
+- Async Await 
+- Estilos : TailwindCss
+- Modal , Notification : HeadlessUI
+- LocalStorage
